@@ -1,4 +1,4 @@
-# Task-3---Linear-Regression  (29-05-2025)
+# Linear-Regression  (29-05-2025)
 Linear Regression task 
 
 # 📊 Linear Regression Project - Task 3
